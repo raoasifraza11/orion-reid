@@ -15,3 +15,8 @@ The purpose of the repo is to collect the resources which we need during the dev
 ### NoSQL Database
 
 * Tarantool is an open-source NoSQL - [Tarantool](https://tarantool.org)
+
+
+### Algorithm Analysis
+
+* Visualisation of Algo's [VisualGO](https://visualgo.net/bn/) 
