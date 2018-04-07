@@ -6,6 +6,7 @@ The purpose of the repo is to collect the resources which we need during the dev
 
 * Namevine - Search for a domain along with social media profiles - [URL](https://namevine.com)
 * Crypto Interactive - Basic Crypto Algos - [URL](http://crypto.interactive-maths.com)
+* SMS api - [URL](https://tweety.pk/)
 
 ### UI & UX Methodology
 
