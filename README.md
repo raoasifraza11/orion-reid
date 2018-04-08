@@ -1,12 +1,29 @@
-# orion-reid
+# Orion-Reid
 
-The purpose of the repo is to collect the resources which we need during the development.
+A collection of resources which helps the developer to develop the good applications (Free & Paid resources).
+
+> What does It mean ```Orion-Reid``` Orion which means 'rising in the sky' and Reid means 'Red'.
+
+
+## Table of Content
+
+- [Web Resources](#web-resources)
+- [Useful APIs](#useful-apis)
+- [UI & UX Methodology](#ui-&-ux-methodology)
+- [NoSQL Database](#nosql-database)
+- [Algorithm Analysis](#algorithm-analysis) 
+
 
 ### Web Resources
 
 * Namevine - Search for a domain along with social media profiles - [URL](https://namevine.com)
 * Crypto Interactive - Basic Crypto Algos - [URL](http://crypto.interactive-maths.com)
+
+
+### Useful APIs
+
 * SMS api - [URL](https://tweety.pk/)
+
 
 ### UI & UX Methodology
 
