@@ -12,9 +12,11 @@ A collection of resources which helps the developer to develop the good applicat
 - [UI & UX Methodology](#ui-&-ux-methodology)
 - [NoSQL Database](#nosql-database)
 - [Algorithm Analysis](#algorithm-analysis) 
+- [TOOLs](#tools)
 
 
-### Web Resources
+
+## Web Resources
 
 * Namevine - Search for a domain along with social media profiles - [URL](https://namevine.com)
 * Crypto Interactive - Basic Crypto Algos - [URL](http://crypto.interactive-maths.com)
@@ -38,3 +40,7 @@ A collection of resources which helps the developer to develop the good applicat
 ### Algorithm Analysis
 
 * Visualisation of Algo's [VisualGO](https://visualgo.net/bn/) 
+
+### Tools
+
+* FOLDOC is a computing dictionary. [FOLDOC](http://foldoc.org)
