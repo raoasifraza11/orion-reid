@@ -45,3 +45,6 @@ A collection of resources which helps the developer to develop the good applicat
 ### Tools
 
 * FOLDOC is a computing dictionary. [FOLDOC](http://foldoc.org)
+* PublicWWW is allow you to search something is not regular. [PublicWWW](https://publicwww.com/)
+* Social Share default image tools OGP Structured. [OGP](http://ogp.me/#structured)
+* Social Share debug. [Facebook debug](https://developers.facebook.com/tools/debug/)
