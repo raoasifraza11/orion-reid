@@ -48,3 +48,4 @@ A collection of resources which helps the developer to develop the good applicat
 * PublicWWW is allow you to search something is not regular. [PublicWWW](https://publicwww.com/)
 * Social Share default image tools OGP Structured. [OGP](http://ogp.me/#structured)
 * Social Share debug. [Facebook debug](https://developers.facebook.com/tools/debug/)
+* Google structured-data [Google structured-data](https://search.google.com/structured-data)
